@@ -1,0 +1,14 @@
+0:25
+Hi, this program
+0:28
+Removes any timestamp
+0:32
+In this format!
+----
+It will remove
+every
+odd lines 
+and
+keeping only
+every
+even lines
