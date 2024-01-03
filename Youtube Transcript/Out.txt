@@ -1,0 +1,7 @@
+Hi, this program
+Removes any timestamp
+In this format!
+It will remove
+odd lines 
+keeping only
+even lines
